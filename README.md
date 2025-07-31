@@ -1,16 +1,11 @@
 ## Hi, I'm Roshni ✨
-
 I'm a B.Tech student driven by curiosity and creativity. I enjoy building things on the web, exploring full-stack development, and sharpening my problem-solving skills.
-
 - 🌱 Currently diving deep into the MERN stack  
 - 💡 Passionate about tech, design, and ethical innovation  
 - 🎵 Vocalist | Learner | Team Player
 ## 🧠 Coding Profile
-
 - 💻 [LeetCode](https://leetcode.com/u/Roshni_15/)
-
 Always learning. Always building. 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/roshni-kumari-112606296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshnikumari9812@gmail.com) 
 
